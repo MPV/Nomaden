@@ -1,7 +1,7 @@
-##	GENERAL INFO	##
+#	GENERAL INFO	#
 
 Name:		Nomaden
-Version:	1.0
+
 Made by:	Victor Sollerhed and Ivan Perisa
 
 Purpose:	
