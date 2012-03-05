@@ -1,0 +1,6 @@
+#!/bin/sh
+
+USERNAME=`tail +1 ~/.nomad-credentials.txt | head -n 1`
+PASSWORD=`tail +2 ~/.nomad-credentials.txt | head -n 1`
+
+curl -d "action=Login&login=$USERNAME&password=$PASSWORD&org=Radius" https://login.nomad.chalmers.se/

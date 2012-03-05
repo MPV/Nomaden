@@ -1,0 +1,4 @@
+CFBundleName = "Nomaden";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Nomaden version 1.0 Copyright 2009 Victor Sollerhed";
+NSHumanReadableCopyright = "Copyright 2009 Victor Sollerhed.";
